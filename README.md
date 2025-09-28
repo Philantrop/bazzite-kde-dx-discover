@@ -1,6 +1,6 @@
-# ⚙️ bazzite-kde-dx
+# ⚙️ bazzite-kde-dx-discover
 
-A Bazzite Image with git master Plasma and Gears plus full KDE development tools. Perfect for KDE developers who want to game too.
+A Bazzite Image with git master Plasma and Gears plus full KDE development tools. Perfect for KDE developers who want to game too. This is mostly a starting point for myself.
 
 ## Features
 
@@ -10,6 +10,7 @@ A Bazzite Image with git master Plasma and Gears plus full KDE development tools
 - Development utilities: `kdevelop`, `flatpak-builder`, `clang`, `neovim`, `zsh`
 - Preinstalled `kde-builder` with completions
 - Enabled system services: `podman.socket`, `waydroid-container.service`
+- (plasma-)discover is added
 
 ## Rebase to This Image
 
